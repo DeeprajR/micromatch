@@ -1,0 +1,9 @@
+{
+  "name": "micromatch",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node backend/server.js",
+    "check": "node --check backend/server.js && node --check frontend/src/main.js"
+  }
+}
