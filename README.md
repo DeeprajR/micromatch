@@ -38,14 +38,7 @@ Codex was used throughout the hackathon build to turn the idea into a working fu
 
 AI assistance also helped refine the UX toward a minimal interface, identify workflow gaps such as application caps versus confirmed volunteer slots, and verify behavior with syntax checks and targeted smoke tests.
 
-## Demo
-
-### Live Demo
-
-Add your deployed project link here, if available.
-
-
-## Screenshots
+## Demo Screenshots
 
 Add screenshots of your project here.
 
