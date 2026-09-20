@@ -52,24 +52,25 @@ Add screenshots of your project here.
 Suggested screenshots:
 
 ### Sign in / sign up screen
-[Volunteer Sign Up screen](/assets/1.png)
-[Non Profit Sign Up screen](/assets/2.png)
-[Sign In screen](/assets/3.png)
+![Volunteer Sign Up screen](/assets/1.png)
+
+![Non Profit Sign Up screen](/assets/2.png)
+
+![Sign In screen](/assets/3.png)
 
 ### Nonprofit Dashboard
-[Nonprofit Organization Dashboard](/assets/9.png)
+![Nonprofit Organization Dashboard](/assets/9.png)
 
 ### Nonprofit Add Work Page
-[Nonprofit Add Work Page](/assets/4.png)
-[Nonprofit Add Work Page](/assets/5.png)
+![Nonprofit Add Work Page](/assets/4.png)
+![Nonprofit Add Work Page](/assets/5.png)
 
 ### Volunteer My tasks page
-[Volunteer My tasks page](/assets/6.png)
-[Volunteer My tasks page](/assets/7.png)
+![Volunteer My tasks page](/assets/6.png)
+![Volunteer My tasks page](/assets/7.png)
 
 ### Nonprofit Confirm work page
-[Nonprofit Confirm work page](/assets/8.png)
-
+![Nonprofit Confirm work page](/assets/8.png)
 
 ## How to Run Locally
 
